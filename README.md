@@ -1,7 +1,7 @@
 # rlg
-Rap lyrics generator. Beat 를 입력하면 beat 와 어울리는 가사를 생성하는 프로그램.
+***Rap lyrics generator***. Beat 를 입력하면 beat 와 어울리는 가사를 생성하는 프로그램.
 
-## Overview
+## Architecture
 ![스크린샷 2022-03-11 오후 6 12 13](https://user-images.githubusercontent.com/41066039/157837467-f96f2bc4-7708-4d9e-859d-febd1e5ef0ec.png)
 
 ## Reference
